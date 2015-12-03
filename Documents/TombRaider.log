@@ -1,0 +1,80 @@
+12:15:51:483 (18424) > --- NIXXES log start ---
+12:15:51:484 (18424) > 
+12:15:51:485 (18424) > Memory statistics:
+12:15:51:485 (18424) >   Total RAM = 16.0 GB (16334 MB)
+12:15:51:487 (18424) >   Avail RAM = 10.7 GB (10928 MB)
+12:15:51:488 (18424) >   Total virtual memory = 4.0 GB (4095 MB)
+12:15:51:489 (18424) >   Avail virtual memory = 3.4 GB (3479 MB)
+12:15:51:490 (18424) > OS = Windows 7 (build 7601)
+12:15:51:491 (18424) > Starting Tomb Raider v1.01.748.0
+12:15:51:528 (18424) > [Main] Current directory: C:\Games\SQUARE ENIX\Tomb Raider
+12:15:51:537 (18424) > Mounted TITLE.000
+12:15:51:539 (18424) > Mounted PATCH.000
+12:15:51:540 (18424) > Mounted PATCH2.000
+12:15:51:556 (18424) > [Render] PCDeviceManager constructor start
+12:15:51:621 (18424) > [Render] PCDeviceManager constructor end
+12:15:51:645 (18424) > [Render] PCDX11DeviceManager constructor start
+12:15:51:647 (18424) > D3D Adapter Information:
+12:15:51:648 (18424) > Adapter Description: NVIDIA Quadro 2000M 
+12:15:51:648 (18424) > VendorID: 10de
+12:15:51:649 (18424) > DeviceID: dda
+12:15:51:650 (18424) > Revision: a1
+12:15:51:651 (18424) > NVidia hardware detected. Attemping to load NVAPI...
+12:15:51:652 (18424) > NVAPI loaded succesfully.
+12:15:51:653 (18424) > NvAPI_Stereo_IsEnabled() returned an error: -140
+12:15:51:660 (18424) > Reducing mouse lag by setting frame latency to 1...
+12:15:51:661 (18424) > D3D reports feature level 11 is supported.
+12:15:51:664 (18424) > NVAPI Depth Bounds Test supported.
+12:15:51:679 (18424) > [Render] PCDX11DeviceManager constructor end
+12:54:52:126 (18424) > CPU count: logical = 8, cores = 4, physical = 1
+12:54:52:142 (18424) > D3D Adapter Information:
+12:54:52:143 (18424) > Adapter Description: NVIDIA Quadro 2000M 
+12:54:52:144 (18424) > VendorID: 10de
+12:54:52:145 (18424) > DeviceID: dda
+12:54:52:145 (18424) > Revision: a1
+12:54:52:146 (18424) > NVidia hardware detected. Attemping to load NVAPI...
+12:54:52:147 (18424) > NVAPI loaded succesfully.
+12:54:52:148 (18424) > NvAPI_Stereo_IsEnabled() returned an error: -140
+12:54:52:162 (18424) > Reducing mouse lag by setting frame latency to 1...
+12:54:52:163 (18424) > D3D reports feature level 11 is supported.
+12:54:52:164 (18424) > NVAPI Depth Bounds Test supported.
+12:54:52:167 (17128) > CreateSwapChain() = 0
+12:54:52:169 (17128) > MakeWindowAssociation() = 0
+12:54:53:181 (17128) > SetFullscreenState() = 0
+12:54:53:327 (18424) > [Render] Using DirectX 11
+12:54:53:499 (18424) > Initalizing audio...
+12:54:53:524 (18424) > Audio device found. FMOD reports 1 driver(s).
+12:54:53:527 (18424) > Audio Driver Name: Speakers / HP (IDT High Definition Audio CODEC)
+12:54:53:528 (18424) > Speaker Mode: 2
+12:54:56:195 (18424) > [DLC] mounted pack 1 - 0x00000001 (steam id=208790)
+12:54:56:198 (18424) > [DLC] mounted pack 1 - 0x00000002 (steam id=208791)
+12:54:56:199 (18424) > [DLC] mounted pack 1 - 0x00000004 (steam id=208792)
+12:54:56:200 (18424) > [DLC] mounted pack 1 - 0x00000008 (steam id=208793)
+12:54:56:201 (18424) > [DLC] mounted pack 1 - 0x00000010 (steam id=208794)
+12:54:56:202 (18424) > [DLC] mounted pack 1 - 0x00010000 (steam id=208795)
+12:54:56:203 (18424) > [DLC] mounted pack 1 - 0x00020000 (steam id=208796)
+12:54:56:203 (18424) > [DLC] mounted pack 1 - 0x00040000 (steam id=208797)
+12:54:56:204 (18424) > [DLC] mounted pack 1 - 0x00100000 (steam id=208798)
+12:54:56:205 (18424) > [DLC] mounted pack 1 - 0x00200000 (steam id=208799)
+12:54:56:206 (18424) > [DLC] mounted pack 1 - 0x00400000 (steam id=208800)
+12:54:56:207 (18424) > [DLC] mounted pack 2 - 0x00000400 (steam id=208801)
+12:54:56:208 (18424) > [DLC] mounted pack 2 - 0x00000800 (steam id=208802)
+12:54:56:208 (18424) > [DLC] mounted pack 2 - 0x00001000 (steam id=208803)
+12:54:56:209 (18424) > [DLC] mounted pack 2 - 0x00002000 (steam id=208804)
+12:54:56:210 (18424) > [DLC] mounted pack 2 - 0x00004000 (steam id=208805)
+12:54:56:211 (18424) > [DLC] mounted pack 2 - 0x00100000 (steam id=208806)
+12:54:56:211 (18424) > [DLC] mounted pack 2 - 0x00200000 (steam id=208807)
+12:54:56:212 (18424) > [DLC] mounted pack 2 - 0x00400000 (steam id=208808)
+12:54:56:213 (18424) > [DLC] mounted pack 2 - 0x10000000 (steam id=208815)
+12:54:56:214 (18424) > [DLC] mounted pack 3 - 0x00000001 (steam id=208809)
+12:54:56:215 (18424) > [DLC] mounted pack 3 - 0x00000002 (steam id=208817)
+12:54:56:216 (18424) > [DLC] mounted pack 3 - 0x00000004 (steam id=208818)
+12:54:56:332 (18424) > [DLC] mounted DLC\PACK8.000 (steam id=208812, pack id=8)
+12:54:56:333 (18424) > [DLC] mounted DLC\PACK4.000 (steam id=208810, pack id=4)
+12:54:56:334 (18424) > [DLC] mounted DLC\PACK5.000 (steam id=208811, pack id=5)
+12:54:56:335 (18424) > [DLC] mounted DLC\PACK6.000 (steam id=208814, pack id=6)
+12:54:56:336 (18424) > [DLC] mounted DLC\PACK7.000 (steam id=208813, pack id=7)
+12:54:57:389 (18424) > OLWebServiceClient [Status:200] [DownloadEvent:Finished] [HttpError:OK] [ServerError:OK]
+12:55:05:393 (18424) > Request (SEM_Login) [Id:0] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+12:55:06:239 (18424) > Request (GetTodaysInfocast) [Id:1] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]
+12:55:06:871 (18424) > Request (GetOptionsSet) [Id:2] failed ! [Status:403] [DownloadEvent:Unauthorized Error] [HttpError:Response Status Code] [ServerError:Invalid Ticket]

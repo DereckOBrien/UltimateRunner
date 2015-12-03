@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TypeManagement projectID="DCE.3292A6C8-4D7B-6007-4F61-D206A7C30D30">
+	<Locations nextID="1">
+	<Location locID="T.0" href=".\FishingMegaStore-Model.etup"/></Locations>
+
+   <Types>
+   <Type id="DCE.23318A79-2B33-85BC-204D-81390C7CB5A9" location="T.0" name="Unnamed"/></Types>
+
+	<IrresolvableTypes>
+	</IrresolvableTypes>
+
+</TypeManagement>
