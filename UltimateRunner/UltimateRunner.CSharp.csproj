@@ -80,8 +80,10 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\KelvinPlayGround\Script\CollisionTracker.cs" />
+    <Compile Include="Assets\KelvinPlayGround\Script\CollisionTracker2.cs" />
     <Compile Include="Assets\KelvinPlayGround\Script\PlayerControlls.cs" />
-    <Compile Include="Assets\KelvinPlayGround\Script\TrackManager.cs" />
+    <Compile Include="Assets\KelvinPlayGround\Script\respawnPlayer.cs" />
     <Compile Include="Assets\StartMenu\StrartMenuScript\MenuScript.cs" />
   </ItemGroup>
   <ItemGroup>

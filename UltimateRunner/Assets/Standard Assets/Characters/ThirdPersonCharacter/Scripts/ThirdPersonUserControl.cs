@@ -30,6 +30,8 @@ namespace UnityStandardAssets.Characters.ThirdPerson
 
             // get the third person character ( this should never be null due to require component )
             m_Character = GetComponent<ThirdPersonCharacter>();
+
+			SetRunningSpeed_FAST ();
         }
 
 
@@ -42,13 +44,41 @@ namespace UnityStandardAssets.Characters.ThirdPerson
         }
 
 
+		const float RUN_FAST = 1;
+		const float RUN_SLOW = 0.5f;
+		 
+
+		private float runningSpeed;
+
+		public void SetRunningSpeed_FAST()
+		{
+			runningSpeed = RUN_FAST;
+		}
+
+		public void SetRunningSpeed_SLOW()
+		{
+			runningSpeed = RUN_SLOW;
+		}
+
+
+
         // Fixed update is called in sync with physics
         private void FixedUpdate()
         {
             // read inputs
             float h = CrossPlatformInputManager.GetAxis("Horizontal");
+
+			/*
             float v = CrossPlatformInputManager.GetAxis("Vertical");
-            bool crouch = Input.GetKey(KeyCode.C);
+			print ("v = " + v);
+
+//			v = 1;
+			*
+			*/
+
+			float v = runningSpeed;
+
+			bool crouch = Input.GetKey(KeyCode.C);
 
             // calculate move direction to pass to character
             if (m_Cam != null)
